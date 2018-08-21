@@ -1,0 +1,7 @@
+# yarn/npm
+node_modules/
+yarn-error.log
+yarn.lock
+
+# mac nonsense
+.DS_Store

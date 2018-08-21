@@ -1,0 +1,12 @@
+{
+  "name": "date-anagram",
+  "version": "1.0.0",
+  "description": "I couldn't sleep one night because of this dumb question in my head so I wrote this program to answer it.",
+  "main": "index.js",
+  "repository": "https://github.com/whymog/date-anagram.git",
+  "author": "Nick Cummings",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
